@@ -7,7 +7,9 @@ I'm a data analyst passionate about extracting insights from data, building visu
  
 - **Data Analysis Tools:**
   - Jupyter Notebooks
-  - Power BI 
+  - Power BI
+  - Microsoft Excel
+    
 - **Data Manipulation & Cleaning:**
   - Pandas, NumPy (Python)
 
