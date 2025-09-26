@@ -18,7 +18,7 @@ I'm a data analyst passionate about extracting insights from data, building visu
   - Power BI
 
 - **Databases & Querying:**
-  - MySQL, PostgreSQL, SQL Server
+  - MySQL, SQL
  
 - **Statistics & Machine Learning:**
   - Descriptive & Inferential Statistics
